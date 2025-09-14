@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 import pandas as pd
 import plotly.express as px
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 
 # --- CONFIG ---
 API_KEY = "112fec4c09d4945a08467c1476fe0e24"  # Your API key
